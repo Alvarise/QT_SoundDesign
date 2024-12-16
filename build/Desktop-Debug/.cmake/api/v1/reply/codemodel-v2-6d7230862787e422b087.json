@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d7d5135cb70149bb492f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS_QT_Miha",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS_QT_Miha::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS_QT_Miha-Debug-bb1beb2bf49b651ab5d9.json",
+					"name" : "CS_QT_Miha",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CS_QT_Miha_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS_QT_Miha_autogen-Debug-2822189d911597f762ed.json",
+					"name" : "CS_QT_Miha_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CS_QT_Miha_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS_QT_Miha_autogen_timestamp_deps-Debug-f0bf75f714685b7b0565.json",
+					"name" : "CS_QT_Miha_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/faxure/CS_QT_Miha/build/Desktop-Debug",
+		"source" : "/home/faxure/CS_QT_Miha"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

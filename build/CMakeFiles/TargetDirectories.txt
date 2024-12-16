@@ -1,0 +1,9 @@
+/home/faxure/CS_QT_Miha/build/CMakeFiles/CS_QT_Miha.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/edit_cache.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/rebuild_cache.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/list_install_components.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/install.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/install/local.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/install/strip.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/CS_QT_Miha_autogen_timestamp_deps.dir
+/home/faxure/CS_QT_Miha/build/CMakeFiles/CS_QT_Miha_autogen.dir
